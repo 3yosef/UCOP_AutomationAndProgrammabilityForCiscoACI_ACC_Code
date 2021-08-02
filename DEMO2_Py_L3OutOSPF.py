@@ -1,12 +1,3 @@
-under networking>>External Routed Networks
-External Routed Networks "out-1"
-ospfif-1 
-configured node "topology/pod-1/node-101"
-arp
-bgp
-ND policy
-interface vlan16
-networks "outepg"
 
 ##################
 from acitoolkit.acitoolkit import Credentials, Session, Tenant, Context
